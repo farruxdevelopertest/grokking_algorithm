@@ -1,0 +1,2 @@
+
+    let guess = list[mid];
